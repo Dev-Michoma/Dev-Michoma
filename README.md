@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Michoma
 - 👀 I’m interested in Web Technologies {Javascript|React Js|Typescript|NextJs|tailwind Css},{Node Js|Nest Js} ,{React Native}
-- 🌱 I’m currently learning React|Typescript
+- 🌱 I currently Write React|Typescript Code
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me michomapeter909@gmail.com
 - 😄 Pronouns: Mr
